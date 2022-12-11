@@ -9,6 +9,7 @@ using namespace std;
         data = val;
         next = NULL;
     }
+    
  };
 
  void insertAtEnd(Node* &head,int val){
